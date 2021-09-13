@@ -68,7 +68,7 @@ html {
     line-height: normal;
 
 }
-#chk:checked~ .nav{
+#chk:checked ~ .nav{
     right: 0;
 }
 .nav li{
